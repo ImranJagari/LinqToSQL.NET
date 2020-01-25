@@ -1,2 +1,2 @@
-# LinqToSQL-PetaPoco
-a helper to generate SQL queries (Petapoco only)
+# LinqToSQL.Net
+a helper to generate SQL queries
